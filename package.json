@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain related projects",
+  "main": "index.js",
+  "author": "jaymjax1",
+  "license": "MIT",
+  "dependencies": {
+    "rambda": "^1.2.0",
+    "typescript": "^3.0.1"
+  }
+}
